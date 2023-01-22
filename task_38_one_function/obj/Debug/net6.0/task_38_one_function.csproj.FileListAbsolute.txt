@@ -1,0 +1,15 @@
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\bin\Debug\net6.0\task_38_one_function.exe
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\bin\Debug\net6.0\task_38_one_function.deps.json
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\bin\Debug\net6.0\task_38_one_function.runtimeconfig.json
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\bin\Debug\net6.0\task_38_one_function.dll
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\bin\Debug\net6.0\task_38_one_function.pdb
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.csproj.AssemblyReference.cache
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.AssemblyInfoInputs.cache
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.AssemblyInfo.cs
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.csproj.CoreCompileInputs.cache
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.dll
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\refint\task_38_one_function.dll
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.pdb
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\task_38_one_function.genruntimeconfig.cache
+C:\Users\zhdanovы\Desktop\seminar_5_var1\task_38_one_function\obj\Debug\net6.0\ref\task_38_one_function.dll
